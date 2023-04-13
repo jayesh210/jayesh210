@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jayesh210
 - 👀 I’m interested in web development
-- 🌱 I’m a full stack developmer
+- 🌱 I’m a full stack developer
 - 💞️ I’m looking to collaborate on web development projects
 
 
